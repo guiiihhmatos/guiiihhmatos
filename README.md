@@ -24,7 +24,6 @@ Atualmente não possuo experiência na área, tenho 18 anos e estou no primeiro 
 
 ### Contato
 [![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/guilherme-matos-santana/) &nbsp;
-[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](gui.santana.matos@gmail.com)
 
 <!--
 **guiiihhmatos/guiiihhmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
