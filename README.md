@@ -7,9 +7,9 @@
 
 ### Sobre meu progresso em tecnologia 🖥️
 
-- Atualmente estou estudando Front-end
+- Atualmente estou estudando Front-end, back-end e banco de dados relacional
 - Programando em Javascript e desenvolvendo em HTML 5 e CSS 3
-- Tenho conhecimento em banco de dados no sistema de gerenciamento PostgreSQL
+- Tenho conhecimento em banco de dados no sistema de gerenciamento PostgreSQL e SQLserver
 - Tenho conhecimento em Git e Github
 - Programo .NET C# e  C++ 
 
