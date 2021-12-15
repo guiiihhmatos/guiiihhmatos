@@ -55,7 +55,7 @@
 
 ### Experiência na área
 
-Atualmente não possuo experiência na área, tenho 18 anos e estou cursando o 2° semestre da faculdade, quero buscar um oportunidade pra poder executar meu conhecimento na área e poder aprender muito com os mais experientes.
+Atualmente não possuo experiência na área, tenho 18 anos e estou cursando o 2° semestre da faculdade, estou em busca de uma oportunidade para poder executar meu conhecimento na área e aprender com os mais experientes.
 
 <div>
   
