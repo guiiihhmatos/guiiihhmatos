@@ -35,17 +35,18 @@
 </div>
   
 ### Sobre mim
-- Me chamo, Guilherme Matos Santana, tenho 18 anos
+- Me chamo, Guilherme Matos Santana, tenho 19 anos
 - Moro na baixada santista, litoral de São Paulo
 - Estudo análise e desenvolvimento de sistemas na FATEC(Faculdade de tecnologia)
   
 ### Sobre meu progresso em tecnologia 🖥️
 
 - Atualmente estou estudando Front-end, back-end e banco de dados relacional
-- Programando em Javascript e desenvolvendo em HTML 5 e CSS 3
-- Tenho conhecimento em banco de dados no sistema de gerenciamento PostgreSQL e SQLserver
+- Tenho bastante conhecimento em Javascript, HTML e CSS.
+- Tenho conhecimento em banco de dados no sistema de gerenciamento PostgreSQL, SQLserver e MySql
 - Tenho conhecimento em Git e Github
-- Programo .NET C# e  C++ 
+- Programo .NET C#, Java e um pouco de PHP.
+- Tenho conhecimento em Angular CLI, ASP NET Core, Spring Framework.
 
 ### Idioma
 
@@ -55,7 +56,9 @@
 
 ### Experiência na área
 
-Atualmente não possuo experiência na área, tenho 18 anos e estou cursando o 2° semestre da faculdade, estou em busca de uma oportunidade para poder executar meu conhecimento na área e aprender com os mais experientes.
+- Atualmente sou estagiário da Prefeitura de São Vicente ( Cidade do litoral de São Paulo). Tenho 19 anos e vou para o 3º Semestre da faculdade de ADS na FATEC;
+- Na prefeitura estou trabalhando na linha de frente de um projeto para uma unidade básica de saúde animal. Nesse projeto estamos fazendo um sistema totalmente do zero utilizando Javascript, Typescript, CSS, HTML, MySQL, Angular e Spring Framework.
+- Estou em busca de alguma oportunidade para Desenvolvedor Junior ou estágio em uma empresa com oportunidade de fechar contrato no modelo da CLT.
 
 <div>
   
