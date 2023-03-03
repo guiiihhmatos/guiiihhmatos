@@ -41,7 +41,7 @@
 </div>
   
 ### Sobre mim
-- Me chamo, Guilherme Matos Santana, tenho 19 anos
+- Me chamo, Guilherme Matos Santana, tenho 20 anos
 - Moro na baixada santista, litoral de São Paulo
 - Estudo análise e desenvolvimento de sistemas na FATEC(Faculdade de tecnologia)
   
@@ -58,6 +58,7 @@
 
 - Inglês: nível Iniciante/Intermediário em leitura, pronúncia e escrita.
 - Estou melhorando meu idioma inglês todo dia, almejando a fluência.
+- Cursando Inglês intensivo em 2023
 
 
 ### Experiência na área
