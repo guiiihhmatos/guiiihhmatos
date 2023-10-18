@@ -66,11 +66,7 @@
 - Na prefeitura estou trabalhando na linha de frente de um projeto para uma unidade básica de saúde animal. Nesse projeto estamos fazendo um sistema totalmente do zero utilizando Javascript, Typescript, CSS, HTML, MySQL, Angular e Spring Framework.
 - Estou em busca de alguma oportunidade para Desenvolvedor Junior ou estágio em uma empresa com oportunidade de fechar contrato no modelo da CLT.
 
-<div>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 <!--
 **guiiihhmatos/guiiihhmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
