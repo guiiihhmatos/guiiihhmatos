@@ -62,9 +62,10 @@
 
 ### Experiência na área
 
-- Atualmente sou estagiário da Prefeitura de São Vicente ( Cidade do litoral de São Paulo). Tenho 20 anos e estou no 5º Semestre da faculdade de ADS na FATEC;
-- Na prefeitura estou trabalhando na linha de frente de um projeto para uma unidade básica de saúde animal. Nesse projeto estamos fazendo um sistema totalmente do zero utilizando Javascript, Typescript, CSS, HTML, MySQL, Angular e Spring Framework.
-- Estou em busca de alguma oportunidade para Desenvolvedor Junior ou estágio em uma empresa com oportunidade de fechar contrato no modelo da CLT.
+- Fui estagiário de desenvolvimento de sistemas na Prefeitura de São Vicente ( Cidade do litoral de São Paulo). Tenho 20 anos e estou no 5º Semestre da faculdade de ADS na FATEC;
+- Na prefeitura trabalhei na linha de frente de um projeto para uma unidade básica de saúde animal. Nesse projeto estamos fazendo um sistema totalmente do zero utilizando Javascript, Typescript, CSS, HTML, PostgreSQL, Angular e Spring Boot.
+  
+- Atualmente sou analista de sistemas no Plano Santa Saúde. Trabalhando com PL/SQL, suporte ao ERP MV SOUL, análise e desenvolvimento de sistemas no geral utilizando PHP ou JAVA (depende do projeto).
 
 
 
