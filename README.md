@@ -40,24 +40,22 @@
 </div>
   
 ### Sobre mim
-- Me chamo, Guilherme Matos Santana, tenho 20 anos
+- Me chamo, Guilherme Matos Santana, tenho 21 anos
 - Moro na baixada santista, litoral de São Paulo
 - Estudo análise e desenvolvimento de sistemas na FATEC(Faculdade de tecnologia)
   
 ### Sobre meu progresso em tecnologia 🖥️
 
-- Atualmente estou estudando Front-end, back-end e banco de dados relacional
-- Tenho bastante conhecimento em Javascript, HTML e CSS.
-- Tenho conhecimento em banco de dados no sistema de gerenciamento PostgreSQL, SQLserver e MySql
-- Tenho conhecimento em Git e Github
-- Programo .NET C#, Java e um pouco de PHP.
-- Tenho conhecimento em Angular CLI, ASP NET Core, Spring Framework.
+- Conhecimento em banco de dados, experiência no Oracle database.
+- Programo em Java, Typescript, Javascript e um pouco de PHP.
+- Tenho conhecimento em Angular CLI, vue, Spring Framework.
+- Desenvolvimento de API utilizando o conceito API REST.
 
 ### Idioma
 
-- Inglês: nível Iniciante/Intermediário em leitura, pronúncia e escrita.
+- Inglês: nível Intermediário em leitura, pronúncia e escrita.
 - Estou melhorando meu idioma inglês todo dia, almejando a fluência.
-- Cursando Inglês intensivo em 2023
+- Cursando Inglês intensivo em 2023/2024
 
 
 ### Experiência na área
@@ -65,7 +63,7 @@
 - Fui estagiário de desenvolvimento de sistemas na Prefeitura de São Vicente ( Cidade do litoral de São Paulo). Tenho 20 anos e estou no 5º Semestre da faculdade de ADS na FATEC;
 - Na prefeitura trabalhei na linha de frente de um projeto para uma unidade básica de saúde animal. Nesse projeto estamos fazendo um sistema totalmente do zero utilizando Javascript, Typescript, CSS, HTML, PostgreSQL, Angular e Spring Boot.
   
-- Atualmente sou analista de sistemas no Plano Santa Saúde. Trabalhando com PL/SQL, suporte ao ERP MV SOUL, análise e desenvolvimento de sistemas no geral utilizando PHP ou JAVA (depende do projeto).
+- Atualmente sou analista de sistemas no Plano Santa Saúde. Trabalhando com PL/SQL, suporte ao ERP MV SOUL, análise e desenvolvimento de sistemas no geral utilizando PHP ou JAVA (depende do projeto). Conhecimento inicial em docker e nginx usando no trabalho.
 
 
 
