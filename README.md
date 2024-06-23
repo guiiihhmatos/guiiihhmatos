@@ -42,7 +42,7 @@
 ### Sobre mim
 - Me chamo, Guilherme Matos Santana, tenho 21 anos
 - Moro na baixada santista, litoral de São Paulo
-- Estudo análise e desenvolvimento de sistemas na FATEC(Faculdade de tecnologia)
+- Sou formado em análise e desenvolvimento de sistemas na FATEC(Faculdade de tecnologia)
   
 ### Sobre meu progresso em tecnologia 🖥️
 
@@ -60,10 +60,12 @@
 
 ### Experiência na área
 
-- Fui estagiário de desenvolvimento de sistemas na Prefeitura de São Vicente ( Cidade do litoral de São Paulo). Tenho 20 anos e estou no 5º Semestre da faculdade de ADS na FATEC;
+- Fui estagiário de desenvolvimento de sistemas na Prefeitura de São Vicente ( Cidade do litoral de São Paulo).
 - Na prefeitura trabalhei na linha de frente de um projeto para uma unidade básica de saúde animal. Nesse projeto estamos fazendo um sistema totalmente do zero utilizando Javascript, Typescript, CSS, HTML, PostgreSQL, Angular e Spring Boot.
   
-- Atualmente sou analista de sistemas no Plano Santa Saúde. Trabalhando com PL/SQL, suporte ao ERP MV SOUL, análise e desenvolvimento de sistemas no geral utilizando PHP ou JAVA (depende do projeto). Conhecimento inicial em docker e nginx usando no trabalho.
+- Fui analista de sistemas no Plano Santa Saúde. Trabalhando com PL/SQL, suporte ao ERP MV SOUL, análise e desenvolvimento de sistemas no geral utilizando PHP ou JAVA (depende do projeto). Conhecimento inicial em docker e nginx usando no trabalho.
+
+- Atualmente sou desenvolvedor full stack na T2S. Trabalho com Vue, java e postgres.
 
 
 
